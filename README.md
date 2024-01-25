@@ -1,5 +1,4 @@
 ## Arthas
-
 ![arthas](site/docs/.vuepress/public/images/arthas.png)
 
 [![Build Status](https://github.com/alibaba/arthas/workflows/JavaCI/badge.svg)](https://github.com/alibaba/arthas/actions)
